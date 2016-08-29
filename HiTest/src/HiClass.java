@@ -5,6 +5,7 @@ public class HiClass {
 		// TODO Auto-generated method stub
 		// aa
 		// bb
+		
 	}
 
 }
